@@ -2,6 +2,8 @@
 
 This repository provides an overview of a project where I implemented a **BERT-based text classification model** to detect clickbait. The project involved fine-tuning a pre-trained BERT model and optimizing hyperparameters to maximize classification performance.
 
+> **Note:** The exact implementation code is not provided here, but if you're interested in discussing the project or seeing specific details, feel free to reach out to **anirudhm@andrew.cmu.edu**!
+> 
 ---
 
 ## Project Overview
